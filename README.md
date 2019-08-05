@@ -5,8 +5,8 @@ My name is Abbas and I'm new to programming & version control systems like githu
 I've ideas of websites in my mind.
 I've just learned Html,CSS,JS,Emmet & wanna learn SASS and other necessary stuff for frontend
 I wanna continue to learn MySQL, MongoDB, Node.js, Express, Redis,... for backend
-I'm a windows user and I've just learned Linux fundamentals, simple commands,-
-- main administrative tasks and some server administrative tasks.
+I'm a windows user and I've just learned Linux fundamentals, simple commands,
+main administrative tasks and some server administrative tasks.
 I don't know the path to become a devops Engineer.
 There are a lot of concepts, languages, IDEs, frameworks, database management softwares,
 caching softwares, and most importantly design patterns like MVC, MVP , MVVM which have confused me a lot :(
