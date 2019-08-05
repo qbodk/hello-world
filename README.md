@@ -48,7 +48,6 @@ this is a list of what I've learned, what I need to learn and what I like to lea
 - Cloud computing principles
 - Vmware Cloud
 - Node.js Workers and multithreading
-- other concepts
 - UX
 - performance testing/ stress tests
 - security
