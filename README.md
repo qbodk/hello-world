@@ -8,10 +8,10 @@ I wanna continue to learn MySQL, MongoDB, Node.js, Express, Redis,... for backen
 I'm a windows user and I've just learned Linux fundamentals, simple commands,-
 - main administrative tasks and some server administrative tasks.
 I don't know the path to become a devops Engineer.
-There are a lot of concepts, languages, IDEs, frameworks, database management softwares,-
-- caching softwares, and most importantly design patterns like MVC, MVP , MVVM which have confused me a lot :(
-concepts which have confused me most at the moment are design patterns, licenses,-
-- team management environments that I've no idea of them.
+There are a lot of concepts, languages, IDEs, frameworks, database management softwares,
+caching softwares, and most importantly design patterns like MVC, MVP , MVVM which have confused me a lot :(
+concepts which have confused me most at the moment are design patterns, licenses,
+team management environments that I've no idea of them.
 this is a list of what I've learned, what I need to learn and what I like to learn:
 *+ HTML
 *+ EMMET
