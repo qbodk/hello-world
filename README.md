@@ -20,6 +20,9 @@ this is a list of what I've learned, what I need to learn and what I like to lea
 *+ javaScript
 / typescript
 - JQuery
+*+ AJAX
+*+ JSON
+/ XML
 *+ linux Ubuntu
 *+ git and github
 + SQL
