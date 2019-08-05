@@ -32,6 +32,7 @@ this is a list of what I've learned, what I need to learn and what I like to lea
 + templating engines
 + react
 + Express
++ todo(organizer)
 + SEO, Google analaystics, ...
 + Redis
 + WebSockets
