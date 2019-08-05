@@ -1,4 +1,5 @@
 # hello-world :)
+<pre>
 It's my first repository
 My name is Abbas and I'm new to programming & version control systems like github.
 I've ideas of websites in my mind.
@@ -54,3 +55,4 @@ this is a list of what I've learned, what I wanna know and what I wanna learn:
 /: mandatory but can be learned later
 -: optional
 I know there are lot more concepts and defenitions to know about & to learn but I'm confused which are completely necessary.
+</pre>
