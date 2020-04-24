@@ -4,7 +4,8 @@ It's my first repository
 My name is Abbas and I'm not new to programming any more :D 
 There are a lot of concepts, languages, IDEs, frameworks, database management softwares,
 caching softwares, design patterns, etc to choose from to become a web & mobile app developer.
-this is a list of trending web development topics, what I've learned*, what I need to learn+, what I like to learn/ ,those which are not necessary to learn- these days and those that I've no idea if they are necessary or not%:
+this is a list of trending web development topics, what I've learned*, what I need to learn+, what I like to learn/,
+those which are not necessary to learn- these days and those that I've no idea if they are necessary or not%:
 *+ HTML & Emmet
 *+ CSS & SASS
 *+ JavaScript
