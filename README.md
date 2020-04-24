@@ -1,68 +1,61 @@
 # hello-world :)
 <pre>
 It's my first repository
-My name is Abbas and I'm new to programming & version control systems like github.
-I've ideas of websites in my mind.
-I've just learned Html,CSS,JS,Emmet & wanna learn SASS and other necessary stuff for frontend
-I wanna continue to learn MySQL, MongoDB, Node.js, Express, Redis,... for backend
-I'm a windows user and I've just learned Linux fundamentals, simple commands,
-main administrative tasks and some server administrative tasks.
-I don't know the path to become a devops Engineer.
+My name is Abbas and I'm not new to programming any more :D 
 There are a lot of concepts, languages, IDEs, frameworks, database management softwares,
-caching softwares, and most importantly design patterns like MVC, MVP , MVVM which have confused me a lot :(
-concepts which have confused me most at the moment are design patterns, licenses,
-team management environments that I've no idea of them.
-this is a list of what I've learned, what I need to learn and what I like to learn:
-*+ HTML
-*+ EMMET
-*+ CSS
-+ SASS
-*+ javaScript
-/ typescript
-- JQuery
-*+ AJAX
+caching softwares, design patterns, etc to choose from to become a web & mobile app developer.
+this is a list of trending web development topics, what I've learned*, what I need to learn+, what I like to learn/ ,those which are not necessary to learn- these days and those that I've no idea if they are necessary or not%:
+*+ HTML & Emmet
+*+ CSS & SASS
+*+ JavaScript
+*+ Some important web APIs like Fetch API
+*+ Babel transcompiler
++ build tools(webpack)
++ TypeScript
+*+ Domain and Hosting concepts
 *+ JSON
-/ XML
-*+ linux Ubuntu
-*+ git and github
-+ SQL
-+ design patterns (MVC, MVP, MVVM)
-+ Node.js
-+ MongoDB
-+ templating engines
-+ react
-+ Express
-+ todo(organizer)
-+ SEO, Google analaystics, ...
+*+ Linux
+*+ Git
+*+ SQL
+*+ NoSQL(MongoDB)
+*+ Node.js
+*+ package managers(NPM/Yarn)
+*+ Express
+*+ Semantic versioning
+*+ WebSockets
 + Redis
-+ WebSockets
-+ linux CentOS
+*+ React & JSX
+*+ SSR (Server Side Rendering) Next.js
++ React Native (maybe just ionic is enough? || Flutter the better hard way)
+*+ Code Debugging
++ Code Testing
++ containerization (Docker)
+/ kubernetes
 + Nginx
-+ Domain and Hosting concepts
-+ CPanel
-+ CDN
-+ payment methods
-- Apache
-- php
-- laravel
-- what an EcoSystem actually is
-- AWS
++ SEO, Google analaystics, ...
++ performance testing/ stress tests
++ security
+/ CI/CD(Continuous Integration/ Continuous Deployment(Delivery))
+/ CPanel
+% AWS
+*- AJAX
 - Baremetal server hardware
 - SAN
 - Cloud computing principles
 - Vmware Cloud
 - Node.js Workers and multithreading
-- UX
-- performance testing/ stress tests
-- security
+/ UX
+*- design patterns (MVC, MVP, MVVM)
+- JQuery
+*- XML
+*- templating engines
 
 *: learned
-+: mandatory for now
-/: mandatory but can be learned later
--: optional
++: mandatory
+/: better to learn
+-: not necessary
+%: don't know if it's necessary  or not
 
-I tried my best so the above list be in order.
 I know there are lot more concepts and defenitions to know about & to learn.
-but I'm confused about what is really necessary to be learned.
-I'll be thankfull if you add items to my list.
+I'll be thankfull if you suggest items to be added to this list.
 </pre>
